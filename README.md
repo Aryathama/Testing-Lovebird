@@ -1,4 +1,4 @@
-**🐦 Testing-Lovebird: Heuristic Optimization for TSP**
+<h1>🐦 Testing-Lovebird: Heuristic Optimization for TSP</h1>
 This repository contains a Python implementation of Lovebird Algorithm and its hybrid variant using Iterated Local Search (ILS), applied to the Traveling Salesman Problem (TSP). It is designed as part of an academic research project to benchmark and explore the capabilities of Lovebird in solving combinatorial optimization problems.
 
 🔍 Features
