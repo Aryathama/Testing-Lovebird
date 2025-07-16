@@ -3,11 +3,11 @@ This repository contains a Python implementation of Lovebird Algorithm and its h
 
 <h2>🔍 Features</h2>
 <ul>
-  ✅ Implementation of Lovebird Algorithm for TSP
-  ♻️ Hybrid version: Lovebird + Iterated Local Search (ILS)
-  📊 Performance visualization with convergence plots
-  🧪 Tested on real benchmark datasets from TSPLIB: fri26, att48, kroA100
-  🔄 Modular code structure for easy experimentation
+  <li>✅ Implementation of Lovebird Algorithm for TSP</li>
+  <li>♻️ Hybrid version: Lovebird + Iterated Local Search (ILS)</li>
+  <li>📊 Performance visualization with convergence plots</li>
+  <li>🧪 Tested on real benchmark datasets from TSPLIB: fri26, att48, kroA100</li>
+  <li>🔄 Modular code structure for easy experimentation</li>
 </ul>
 
 <h2>🎓 Purpose</h2>
